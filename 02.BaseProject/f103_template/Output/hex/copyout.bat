@@ -1,0 +1,1 @@
+copy Output\hex\*.hex Output\
