@@ -1,5 +1,9 @@
 # MicroComputer Principle Finalwork of 2015-2016B
 
+Released under limited GPL now. 
+
+You can do everything under GPL, except for using the code and images here directly as your homework or anything related to your grade now, unless clearly referenced.
+
 Final jobs of Principles of Microcomputer in 2015-2016B. Mostly written with C, and also some ASMs.
 
 Here are the list of task.
