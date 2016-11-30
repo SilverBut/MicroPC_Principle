@@ -1,6 +1,19 @@
 # MicroComputer Principle Finalwork of 2015-2016B
 
-Released under limited GPL now. 
+## Legal Statement
+
+Copyright of this repo belongs to Silver.
+
+Unless otherwise stated, you are requested to follow GPLv3 to use code in this repo.
+
+The following related parts are NOT allowed to use this code, unless a statement is signed and published by the author:
+
+* Humensec (http://www.humensec.com)
+* Network Behaviour Research Center (NBRC) in Xidian University (http://nbrc.xidian.edu.cn)
+* School of Cyber Engineering of Xidian University (http://ce.xidian.edu.cn)
+* Leaders, researchers, students and any other people directly related to entities above
+
+ANY POSSIBLE actions will be committed if this statement had been violated.
 
 You can do everything under GPL, except for using the code and images here directly as your homework or anything related to your grade now, unless clearly referenced.
 
